@@ -34,3 +34,12 @@ To add the library to KiCad:
 * In the Library Path enter the path and filename of the .lib file for the library (or use the file browser).
 
 * Click OK to save and leave the Symbol Libraries dialog.
+
+Resources
+---------
+
+Gate array pinouts: https://www.cpcwiki.eu/index.php/Gate_Array_and_ASIC_Pin-Outs
+
+Amstrad CPC schematics: http://www.cpcwiki.eu/index.php/Schematics
+
+"Gate Array Decapped": A forum thread discussing the reverse engineering of a 40010. The link is to the post containing the latest revision (at the time of writing) of the schematic. https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/gate-array-decapped!/msg170713/#msg170713
