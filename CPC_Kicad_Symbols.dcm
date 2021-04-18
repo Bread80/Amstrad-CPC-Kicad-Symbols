@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMG40007
+D Amstrad CPC Gate Array 40007 or 40008
+F http://www.cpcwiki.eu/forum/amstrad-cpc-hardware/gate-array-decapped!/msg124586/#msg124586
+$ENDCMP
+#
+$CMP AMG40010
+D Amstrad CPC Gate Array 40010
+F http://www.cpcwiki.eu/forum/amstrad-cpc-hardware/gate-array-decapped!/msg124586/#msg124586
+$ENDCMP
+#
+$CMP AMG40030
+D Amstrad PAL/HAL (memory manager) for CPC6128. PAC16L8AC (or GAL16V8 see Datasheet link).
+F http://www.cpcwiki.eu/forum/amstrad-cpc-hardware/amstrad-6128-halpal16l8-chip/
+$ENDCMP
+#
+$CMP AY-3-8910
+K Programmable Sound Generator
+F http://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf
+$ENDCMP
+#
+#End Doc Library
